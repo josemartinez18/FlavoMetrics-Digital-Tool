@@ -1,9 +1,8 @@
 # Flavometrics-Digital-Tool
 ![Flavometrics Main Image](<Images/FlavoMetrics Tool.jpg>)
-Open source biodesign digital tool from the ACM Designing Interactive Systems 2023 pictorial ["FlavoMetrics: Towards a Digital Tool to Understand and Tune Living Aesthetics of Flavobacteria"](https://dl.acm.org/doi/10.1145/3563657.3596085.). 
+Open source biodesign digital tool from the ACM Designing Interactive Systems 2023 pictorial ["FlavoMetrics: Towards a Digital Tool to Understand and Tune Living Aesthetics of Flavobacteria"](https://dl.acm.org/doi/10.1145/3563657.3596085). 
 
-Authors:  
-Clarice Risseeuw, Jose Francisco Martinez Castro, Pascal Barla, Elvin Karana
+Authors: Clarice Risseeuw, Jose Francisco Martinez Castro, Pascal Barla, Elvin Karana
 
 [DIS 2023 Preview Video](https://www.youtube.com/watch?v=oMSLKfJZpuI)
 
