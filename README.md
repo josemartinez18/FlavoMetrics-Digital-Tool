@@ -5,11 +5,11 @@ Open source digital tool from the ACM Designing Interactive Systems 2023 pictori
 Authors:  
 Clarice Risseeuw, Jose Francisco Martinez Castro, Pascal Barla, Elvin Karana
 
-Currently only supported on Windows.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oMSLKfJZpuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[DIS 2023 Preview Video](https://www.youtube.com/watch?v=oMSLKfJZpuI)
 
 # Installation
+Currently only supported on Windows.
+
 1. Downloadoad the latest version of UPBGE: https://upbge.org
 2. Download all files in the github repository
 3. Open the .blend file
