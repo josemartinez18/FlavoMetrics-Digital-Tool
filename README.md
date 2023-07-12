@@ -1,6 +1,13 @@
 # Flavometrics-Digital-Tool
 ![Flavometrics Main Image](<Images/FlavoMetrics Tool.jpg>)
-Open source digital tool from the ACM Designing Interactive Systems 2023 pictorial "FlavoMetrics: Towards a digital tool to understand and tune living aesthetics of Flavobacteria". Currently only supported on Windows.
+Open source digital tool from the ACM Designing Interactive Systems 2023 pictorial ["FlavoMetrics: Towards a Digital Tool to Understand and Tune Living Aesthetics of Flavobacteria"](https://dl.acm.org/doi/10.1145/3563657.3596085.). 
+
+Authors:  
+Clarice Risseeuw, Jose Francisco Martinez Castro, Pascal Barla, Elvin Karana
+
+Currently only supported on Windows.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oMSLKfJZpuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Installation
 1. Downloadoad the latest version of UPBGE: https://upbge.org
