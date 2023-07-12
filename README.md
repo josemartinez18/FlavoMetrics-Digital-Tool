@@ -16,7 +16,7 @@ Currently only supported on Windows.
 ![Enabling Logic Nodes](<Images/Enable Logic Nodes.png>)
 5. In the "Layout" window, select "Render Properties" on the right hand menu (camera icon). At the top, you have the option for an "Embedded Start" (launching the tool in the Blender window) or "Standalone Start" (launching the tool in its own independent window)
 ![Launching Flavometrics](<Images/Launching Flavometrics.png>)
-6. Now you aree ready to use the tool and tune the living aesthetics of Flavobacteria.
+6. Now you are ready to use the tool and tune the living aesthetics of Flavobacteria!
 
 # FAQ
 1. How can I improve the performance of the tool when running on the computer?
