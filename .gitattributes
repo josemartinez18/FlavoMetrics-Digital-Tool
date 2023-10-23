@@ -1,0 +1,4 @@
+.exe filter=lfs diff=lfs merge=lfs -text
+Flavometrics[[:space:]]Standalone[[:space:]]App/blenderplayer.exe filter=lfs diff=lfs merge=lfs -text
+Flavometrics[[:space:]]Standalone[[:space:]]App/FlavometricsApp.exe filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
